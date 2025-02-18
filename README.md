@@ -1,6 +1,6 @@
 # TgSample
 
-[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.12+-blue.svg)](https://www.python.org/)
 [![aiogram](https://img.shields.io/badge/aiogram-3.x-green.svg)](https://docs.aiogram.dev/)
 
 Это простой бот для Telegram, созданный с использованием фреймворка [aiogram](https://github.com/aiogram/aiogram). Бот поддерживает базовые команды, такие как `/start`, `/help`, а также обрабатывает сообщения пользователя.

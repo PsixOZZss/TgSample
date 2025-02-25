@@ -8,7 +8,7 @@ import asyncio
 from config import BOT_TOKEN
 from handlers import start, help, echo
 from middlewares.logging_middleware import LoggingMiddleware
-from utils.logging import DoubleWrite
+from utils.double_logging import DoubleWrite
 
 
 async def main():
